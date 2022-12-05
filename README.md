@@ -27,7 +27,7 @@ const houdaMzari = {
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=houdamzari&theme=radical" alt="houdamzari" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LIBERCOSOFT" alt="libercosoft" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houdamzari" alt="libercosoft" /></a> </p>
 
 <h3 align="left">:wrench: Languages and Tools:</h3>
 <p align="center"> 
